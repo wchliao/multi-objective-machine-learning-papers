@@ -17,7 +17,7 @@ A list of papers that are relevant to multi-objective machine learning papers. I
    CVPR 2018.
  * [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/pdf/1804.03230.pdf).  
    Tien-Ju Yang, Andrew Howard, Bo Chen, Xiao Zhang, Alec Go, Vivienne Sze, Hartwig Adam.  
-   arXiv 2018.
+   arXiv preprint 2018.
  * [MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks](https://arxiv.org/pdf/1711.06798.pdf).  
    Ariel Gordon, Elad Eban, Ofir Nachum, Bo Chen, Hao Wu, Tien-Ju Yang, Edward Choi.  
    CVPR 2018.
@@ -35,7 +35,7 @@ A list of papers that are relevant to multi-objective machine learning papers. I
 
  * [MONAS: Multi-Objective Neural Architecture Search using Reinforcement Learning](https://arxiv.org/pdf/1806.10332.pdf).  
    Chi-Hung Hsu, Shu-Huan Chang, Da-Cheng Juan, Jia-Yu Pan, Yu-Ting Chen, Wei Wei, Shih-Chieh Chang.  
-   arXiv 2018.
+   arXiv preprint 2018.
  * [PPP-Net: Platform-Aware Progressive Search For Pareto-Optimal Neural Architectures](https://openreview.net/pdf?id=B1NT3TAIM).  
    Jin-Dong Dong, An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun.  
    ICLR Workshop 2018.
