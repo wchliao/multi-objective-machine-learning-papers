@@ -33,6 +33,9 @@ A list of papers that are relevant to multi-objective machine learning papers. I
 
 ## Neural Architecture Search 
 
+ * [MONAS: Multi-Objective Neural Architecture Search using Reinforcement Learning](https://arxiv.org/pdf/1806.10332.pdf).  
+   Chi-Hung Hsu, Shu-Huan Chang, Da-Cheng Juan, Jia-Yu Pan, Yu-Ting Chen, Wei Wei, Shih-Chieh Chang.  
+   arXiv 2018.
  * [PPP-Net: Platform-Aware Progressive Search For Pareto-Optimal Neural Architectures](https://openreview.net/pdf?id=B1NT3TAIM).  
    Jin-Dong Dong, An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun.  
    ICLR Workshop 2018.
