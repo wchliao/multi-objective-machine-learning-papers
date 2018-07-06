@@ -12,9 +12,18 @@ A list of papers that are relevant to multi-objective machine learning papers. I
 
 ## Model Adaptation
  
+ * [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf).  
+   Arun Mallya, Svetlana Lazebnik.  
+   CVPR 2018.
  * [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/pdf/1804.03230.pdf).  
    Tien-Ju Yang, Andrew Howard, Bo Chen, Xiao Zhang, Alec Go, Vivienne Sze, Hartwig Adam.  
    arXiv 2018.
+ * [MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks](https://arxiv.org/pdf/1711.06798.pdf).  
+   Ariel Gordon, Elad Eban, Ofir Nachum, Bo Chen, Hao Wu, Tien-Ju Yang, Edward Choi.  
+   CVPR 2018.
+ * NEMO: Neuro-Evolution with Multiobjective Optimization of Deep Neural Network for Speed and Accuracy.  
+   Ye-Hoon Kim, Bhargava Reddy, Sojung Yun, Chanwon Seo.  
+   ICML Workshop 2017.
 
 ## Model Merge
 
