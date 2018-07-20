@@ -8,6 +8,7 @@ A list of papers that are relevant to multi-objective machine learning. Inspired
 
  * [Model Adaption](#model-adaption)
  * [Neural Architecture Search](#neural-architecture-search)
+ * [Others](#others)
 
 ## Model Adaptation
 
@@ -29,4 +30,9 @@ A list of papers that are relevant to multi-objective machine learning. Inspired
  * [NEMO: Neuro-Evolution with Multiobjective Optimization of Deep Neural Network for Speed and Accuracy](https://zapdoc.tips/nemo-neuro-evolution-with-multiobjective-optimization-of-dee.html).  
    Ye-Hoon Kim, Bhargava Reddy, Sojung Yun, Chanwon Seo.  
    ICML Workshop 2017.
-   
+
+## Others
+
+ * [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf).  
+   Yaochu Jin, Bernhard Sendhoff.  
+   IEEE Transactions on Systems, Man, and Cybernetics 2008.
