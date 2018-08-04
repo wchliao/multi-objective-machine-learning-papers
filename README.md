@@ -21,6 +21,9 @@ A list of papers that are relevant to multi-objective machine learning. Inspired
 
 ## Neural Architecture Search 
 
+ * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf).  
+   Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le.  
+   arXiv preprint 2018.
  * [DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures](https://arxiv.org/pdf/1806.08198.pdf).  
    Jin-Dong Dong, An-Chieh Cheng, Da-Cheng Juan, Wei Wei, Min Sun.  
    ECCV 2018.
