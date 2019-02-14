@@ -21,6 +21,9 @@ A list of papers that are relevant to multi-objective machine learning. Inspired
 
 ## Neural Architecture Search 
 
+ * [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/pdf/1804.09081.pdf).  
+   Thomas Elsken, Jan Hendrik Metzen, Frank Hutter.  
+   ICLR 2019.
  * [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf).  
    Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le.  
    arXiv preprint 2018.
