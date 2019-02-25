@@ -21,6 +21,12 @@ A list of papers that are relevant to multi-objective machine learning. Inspired
 
 ## Neural Architecture Search 
 
+ * [InstaNAS: Instance-aware Neural Architecture Search](https://arxiv.org/pdf/1811.10201.pdf).  
+   An-Chieh Cheng, Chieh Hubert Lin, Da-Cheng Juan, Wei Wei, Min Sun.  
+   arXiv preprint 2018.
+ * [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/pdf/1812.00332.pdf).  
+   Han Cai, Ligeng Zhu, Song Han.  
+   ICLR 2019.
  * [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/pdf/1804.09081.pdf).  
    Thomas Elsken, Jan Hendrik Metzen, Frank Hutter.  
    ICLR 2019.
